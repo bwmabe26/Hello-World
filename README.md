@@ -5,5 +5,5 @@ Shortly after obtaining my Bachelor's of Science in Public Administration, I beg
 
 While I've always been a quick study of new software and hardware, I knew that I could gain much more than a passive understanding of how the gadgets I used work. I wanted to understand how they were created and one day, perhaps, create my own. I'm striving toward that goal every day. That is why I created a github account. It's the best way I know of to merge my interests in business, technology, and society beneath one umbrella. 
 
-Armed with the most sophisticated technology ever created, it is my hope to create new and better ways of thinking, working, and living. I hope that I can have at least a small, positive impact upon the lives of everyone I have the pleasure of helping. Technology is humanity's future. I intend to help write a page or two in that book. 
+Armed with a variety of tools and resources, it is my aim to one day create new and better ways of thinking, working, and living. I hope that I can have at least a small, positive impact upon the lives of everyone I have the pleasure of helping. Technology is humanity's future. I aspire to help write a page or two in that book. 
 
